@@ -252,7 +252,7 @@ module.exports = {
     ***************************************************************************/
     onlyAllowOrigins: [
       'https://localhost',
-      'https://coffee-shop-team-project.herokuapp.com',
+      'https://3.139.238.231',
     ],
 
 
@@ -374,7 +374,7 @@ module.exports = {
   *                                                                         *
   ***************************************************************************/
   custom: {
-    baseUrl: 'https://coffee-shop-team-project.herokuapp.com/',
+    baseUrl: 'https://3.139.238.231',
     internalEmailAddress: 'support@example.com',
 
     // sendgridSecret: 'SG.fake.3e0Bn0qSQVnwb1E4qNPz9JZP5vLZYqjh7sn8S93oSHU',
