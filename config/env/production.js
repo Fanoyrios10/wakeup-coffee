@@ -251,7 +251,7 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
     onlyAllowOrigins: [
-      'http://coffeeproject.rocks',
+      'http://coffeeprojectrocks.herokuapp.com',
       'https://3.139.238.231',
     ],
 
@@ -374,7 +374,7 @@ module.exports = {
   *                                                                         *
   ***************************************************************************/
   custom: {
-    baseUrl: 'http://coffeeproject.rocks',
+    baseUrl: 'http://coffeeprojectrocks.herokuapp.com',
     internalEmailAddress: 'support@example.com',
 
     // sendgridSecret: 'SG.fake.3e0Bn0qSQVnwb1E4qNPz9JZP5vLZYqjh7sn8S93oSHU',
